@@ -11,10 +11,10 @@
                    em:contributor="Aurelien Benel; Christophe Lejeune"
                    em:description="RESTClient, a debugger for RESTful web services."
                    em:homepageURL="http://www.restclient.net"
-                   em:id="{ad0d925d-88f8-47f1-85ea-8463569e756e}"
+                   em:id="{fa7f553c-ba57-4cc8-b387-ad62a24a326f}"
                    em:name="RESTClient"
                    em:type="2">
     <em:targetApplication RDF:resource="rdf:#$ll2uD1"/>
-    <em:version>2.1.0</em:version>
+    <em:version>2.2.0</em:version>
   </RDF:Description>
 </RDF:RDF>
